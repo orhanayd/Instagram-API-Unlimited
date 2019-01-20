@@ -1,4 +1,4 @@
-# Instagram API
+# Instagram REST API
 **Unlimited** and ~~*access_token*~~ **not required**
 
 **Main URL:**
