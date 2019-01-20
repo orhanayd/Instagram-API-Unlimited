@@ -14,3 +14,6 @@ With where query in url**
 - http://api.orhanaydogdu.com.tr/instagram/?process=search&search=istanbul&where=hashtags
 
 - http://api.orhanaydogdu.com.tr/instagram/?process=search&search=istanbul&where=places
+
+#### **Error and suggestions for:**
+##### info@orhanaydogdu.com.tr
