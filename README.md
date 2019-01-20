@@ -1,5 +1,5 @@
-# Instagram REST API
-**Unlimited** and ~~*access_token*~~ **not required**
+# Instagram API
+**Unlimited** and ~~*access_token*~~ **not required** | ** continues to be develop**
 
 **Main URL:**
 - http://api.orhanaydogdu.com.tr/instagram/?process=search&search=istanbul
