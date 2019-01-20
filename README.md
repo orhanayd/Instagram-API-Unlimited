@@ -2,18 +2,18 @@
 **Unlimited** and ~~*access_token*~~ **not required** | ** continues to be develop**
 
 **Main URL:**
-- http://api.orhanaydogdu.com.tr/instagram/?process=search&search=istanbul
+- https://api.orhanaydogdu.com.tr/instagram/?process=search&search=istanbul
 
 **You can filter search result by item with where query in url,
 With where query in url**
 (hashtags, places, users)
 
 **Examples:**
-- http://api.orhanaydogdu.com.tr/instagram/?process=search&search=istanbul&where=users
+- https://api.orhanaydogdu.com.tr/instagram/?process=search&search=istanbul&where=users
 
-- http://api.orhanaydogdu.com.tr/instagram/?process=search&search=istanbul&where=hashtags
+- https://api.orhanaydogdu.com.tr/instagram/?process=search&search=istanbul&where=hashtags
 
-- http://api.orhanaydogdu.com.tr/instagram/?process=search&search=istanbul&where=places
+- https://api.orhanaydogdu.com.tr/instagram/?process=search&search=istanbul&where=places
 
 #### **Error and suggestions for:**
 ##### info@orhanaydogdu.com.tr
