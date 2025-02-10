@@ -1,3 +1,4 @@
+# DEPRECATED
 # Instagram Unlimited Search API
 **Unlimited** and ~~*access_token*~~ **not required** | ** continues to be develop**
 
